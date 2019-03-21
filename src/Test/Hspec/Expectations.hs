@@ -8,6 +8,7 @@ module Test.Hspec.Expectations (
 
 -- * Setting expectations
   Expectation
+, expectTrue
 , expectationFailure
 , shouldBe
 , shouldSatisfy
